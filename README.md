@@ -1,4 +1,4 @@
 # Collegedemo
 This is my first GITHUB repo
-<BD>
+<BR>
 Author Sagar Bhavsar
